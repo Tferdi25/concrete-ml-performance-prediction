@@ -53,6 +53,11 @@ concrete-ml-performance-prediction/
 ├── LICENSE
 └── README.md
 ```
+## MATLAB implementation
+
+A MATLAB implementation of the workflow is available in the `matlab_version/` folder. It includes ensemble regression, Support Vector Regression, and Gaussian Process Regression models for predicting concrete mechanical, durability, and environmental performance indicators.
+
+See `matlab_version/README_MATLAB.md` for details.
 
 ## Dataset
 
