@@ -128,6 +128,14 @@ python -m src.predict \
   --input data/sample_concrete_dataset.csv \
   --output results/predictions.csv
 ```
+## Future improvements
+
+- Experimental concrete data from your own research
+- Cross-validation and hyperparameter optimization
+- SHAP explainability analysis
+- CO₂ efficiency score combining emissions and performance
+- Uncertainty quantification using Gaussian Process Regression
+- A scientific manuscript-style methodology section
 
 ## Disclaimer
 
