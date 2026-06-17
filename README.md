@@ -129,27 +129,6 @@ python -m src.predict \
   --output results/predictions.csv
 ```
 
-## Example CV description
-
-You can describe this GitHub project in your CV as follows:
-
-> Developed a reproducible Python machine learning workflow for predicting concrete mechanical, durability, and environmental performance indicators. Implemented Random Forest, Gradient Boosting, Support Vector Regression, and Gaussian Process Regression models for multi-output prediction of compressive strength, tensile strength, porosity, electrical resistivity, water absorption, and CO₂ emission index.
-
-A shorter version:
-
-> Applied machine learning to sustainable concrete mixture design using Python, Scikit-learn, Gaussian Process Regression, Support Vector Regression, Random Forest, and multi-output model evaluation.
-
-## Suggested future improvements
-
-To make the repository stronger for an MSCA application, you can later add:
-
-- Experimental concrete data from your own research
-- Cross-validation and hyperparameter optimization
-- SHAP explainability analysis
-- CO₂ efficiency score combining emissions and performance
-- Uncertainty quantification using Gaussian Process Regression
-- A scientific manuscript-style methodology section
-
 ## Disclaimer
 
 This project is intended for research training, portfolio demonstration, and reproducible workflow development. The sample dataset is synthetic and should not be interpreted as experimental evidence.
