@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Machine Learning Models for Predicting Concrete Mechanical and Durability Performance"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: "Ferdiansyah"
+    given-names: "Teuku Faris"
+year: 2026
+license: MIT
+repository-code: "https://github.com/your-username/concrete-ml-performance-prediction"
+keywords:
+  - machine learning
+  - concrete
+  - durability
+  - sustainable construction materials
+  - Gaussian Process Regression
+  - recycled aggregates
+  - silica fume
